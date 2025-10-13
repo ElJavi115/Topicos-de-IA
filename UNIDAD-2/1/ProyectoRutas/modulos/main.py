@@ -7,7 +7,7 @@ from ConstruirGrafo import (construir_grafo, nodos_mayor_componente, matriz_clau
 from RecocidoSimulado import recocido_simulado
 
 #Variables de configuración
-MODO_OPTIMIZAR = "costo"   # "costo" | "distancia"
+MODO_OPTIMIZAR = "distancia"   # "costo" | "distancia"
 T0 = 1000.0
 ALPHA = 0.995
 L_ITERS = 50
