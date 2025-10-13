@@ -1,0 +1,454 @@
+id,origen_nombre,tipo_origen,origen_lat,origen_lon,destino_nombre,tipo_destino,destino_lat,destino_lon,is_bridge,is_added,added_reason
+,Centro de Distribución 1,Centro,24.774908,-107.309857,Centro de Distribución 1,Centro,24.774908,-107.309857,0.0,0,
+,Centro de Distribución 1,Centro,24.774908,-107.309857,Tienda 60,Tienda,24.772726,-107.305644,0.0,0,
+,Tienda 60,Tienda,24.772726,-107.305644,Tienda 86,Tienda,24.718621,-107.320557,0.0,0,
+,Tienda 86,Tienda,24.718621,-107.320557,Tienda 24,Tienda,24.728185,-107.339561,0.0,0,
+,Tienda 24,Tienda,24.728185,-107.339561,Tienda 70,Tienda,24.747528,-107.354357,0.0,0,
+,Tienda 70,Tienda,24.747528,-107.354357,Tienda 44,Tienda,24.782077,-107.34889,0.0,0,
+,Tienda 44,Tienda,24.782077,-107.34889,Tienda 3,Tienda,24.791214,-107.342965,0.0,0,
+,Tienda 3,Tienda,24.791214,-107.342965,Tienda 59,Tienda,24.803758,-107.359396,0.0,0,
+,Tienda 59,Tienda,24.803758,-107.359396,Tienda 48,Tienda,24.826681,-107.325708,0.0,0,
+,Tienda 48,Tienda,24.826681,-107.325708,Tienda 18,Tienda,24.81958,-107.315625,0.0,0,
+,Tienda 18,Tienda,24.81958,-107.315625,Centro de Distribución 1,Centro,24.774908,-107.309857,0.0,0,
+,Centro de Distribución 2,Centro,24.846399,-107.380268,Centro de Distribución 2,Centro,24.846399,-107.380268,0.0,0,
+,Centro de Distribución 2,Centro,24.846399,-107.380268,Tienda 72,Tienda,24.826706,-107.392845,0.0,0,
+,Tienda 72,Tienda,24.826706,-107.392845,Tienda 64,Tienda,24.821913,-107.399464,0.0,0,
+,Tienda 64,Tienda,24.821913,-107.399464,Tienda 10,Tienda,24.836847,-107.41197,0.0,0,
+,Tienda 10,Tienda,24.836847,-107.41197,Tienda 38,Tienda,24.854193,-107.401241,0.0,0,
+,Tienda 38,Tienda,24.854193,-107.401241,Tienda 37,Tienda,24.852157,-107.387745,0.0,0,
+,Tienda 37,Tienda,24.852157,-107.387745,Tienda 84,Tienda,24.863444,-107.38896,0.0,0,
+,Tienda 84,Tienda,24.863444,-107.38896,Tienda 31,Tienda,24.872621,-107.37534,0.0,0,
+,Tienda 31,Tienda,24.872621,-107.37534,Tienda 28,Tienda,24.841371,-107.354199,0.0,0,
+,Tienda 28,Tienda,24.841371,-107.354199,Tienda 34,Tienda,24.845921,-107.372489,0.0,0,
+,Tienda 34,Tienda,24.845921,-107.372489,Centro de Distribución 2,Centro,24.846399,-107.380268,0.0,0,
+,Centro de Distribución 3,Centro,24.731204,-107.468801,Centro de Distribución 3,Centro,24.731204,-107.468801,0.0,0,
+,Centro de Distribución 3,Centro,24.731204,-107.468801,Tienda 46,Tienda,24.75795,-107.467756,0.0,0,
+,Tienda 46,Tienda,24.75795,-107.467756,Tienda 74,Tienda,24.764156,-107.462696,0.0,0,
+,Tienda 74,Tienda,24.764156,-107.462696,Tienda 52,Tienda,24.763601,-107.47799,0.0,0,
+,Tienda 52,Tienda,24.763601,-107.47799,Tienda 9,Tienda,24.760923,-107.480466,0.0,0,
+,Tienda 9,Tienda,24.760923,-107.480466,Tienda 63,Tienda,24.756968,-107.492623,0.0,0,
+,Tienda 63,Tienda,24.756968,-107.492623,Tienda 45,Tienda,24.74576,-107.484604,0.0,0,
+,Tienda 45,Tienda,24.74576,-107.484604,Tienda 40,Tienda,24.705084,-107.478422,0.0,0,
+,Tienda 40,Tienda,24.705084,-107.478422,Tienda 65,Tienda,24.710296,-107.444271,0.0,0,
+,Tienda 65,Tienda,24.710296,-107.444271,Tienda 19,Tienda,24.717699,-107.460803,0.0,0,
+,Tienda 19,Tienda,24.717699,-107.460803,Centro de Distribución 3,Centro,24.731204,-107.468801,0.0,0,
+,Centro de Distribución 4,Centro,24.711617,-107.326765,Centro de Distribución 4,Centro,24.711617,-107.326765,0.0,0,
+,Centro de Distribución 4,Centro,24.711617,-107.326765,Tienda 7,Tienda,24.71301,-107.310223,0.0,0,
+,Tienda 7,Tienda,24.71301,-107.310223,Tienda 25,Tienda,24.71491,-107.302623,0.0,0,
+,Tienda 25,Tienda,24.71491,-107.302623,Tienda 12,Tienda,24.706878,-107.318136,0.0,0,
+,Tienda 12,Tienda,24.706878,-107.318136,Tienda 27,Tienda,24.701104,-107.336908,0.0,0,
+,Tienda 27,Tienda,24.701104,-107.336908,Tienda 41,Tienda,24.706286,-107.372718,0.0,0,
+,Tienda 41,Tienda,24.706286,-107.372718,Tienda 75,Tienda,24.708155,-107.381821,0.0,0,
+,Tienda 75,Tienda,24.708155,-107.381821,Tienda 13,Tienda,24.751756,-107.367496,0.0,0,
+,Tienda 13,Tienda,24.751756,-107.367496,Tienda 36,Tienda,24.723919,-107.357351,0.0,0,
+,Tienda 36,Tienda,24.723919,-107.357351,Tienda 73,Tienda,24.718058,-107.33294,0.0,0,
+,Tienda 73,Tienda,24.718058,-107.33294,Centro de Distribución 4,Centro,24.711617,-107.326765,0.0,0,
+,Centro de Distribución 5,Centro,24.820223,-107.358385,Centro de Distribución 5,Centro,24.820223,-107.358385,0.0,0,
+,Centro de Distribución 5,Centro,24.820223,-107.358385,Tienda 69,Tienda,24.834427,-107.347676,0.0,0,
+,Tienda 69,Tienda,24.834427,-107.347676,Tienda 89,Tienda,24.845191,-107.320578,0.0,0,
+,Tienda 89,Tienda,24.845191,-107.320578,Tienda 51,Tienda,24.861488,-107.320782,0.0,0,
+,Tienda 51,Tienda,24.861488,-107.320782,Tienda 54,Tienda,24.863603,-107.327854,0.0,0,
+,Tienda 54,Tienda,24.863603,-107.327854,Tienda 90,Tienda,24.877417,-107.344025,0.0,0,
+,Tienda 90,Tienda,24.877417,-107.344025,Tienda 87,Tienda,24.880084,-107.37338,0.0,0,
+,Tienda 87,Tienda,24.880084,-107.37338,Tienda 79,Tienda,24.838188,-107.422653,0.0,0,
+,Tienda 79,Tienda,24.838188,-107.422653,Tienda 39,Tienda,24.804547,-107.414492,0.0,0,
+,Tienda 39,Tienda,24.804547,-107.414492,Tienda 71,Tienda,24.773557,-107.373539,0.0,0,
+,Tienda 71,Tienda,24.773557,-107.373539,Centro de Distribución 5,Centro,24.820223,-107.358385,0.0,0,
+,Centro de Distribución 6,Centro,24.704117,-107.306018,Centro de Distribución 6,Centro,24.704117,-107.306018,0.0,0,
+,Centro de Distribución 6,Centro,24.704117,-107.306018,Tienda 83,Tienda,24.751588,-107.368003,0.0,0,
+,Tienda 83,Tienda,24.751588,-107.368003,Tienda 23,Tienda,24.756187,-107.391461,0.0,0,
+,Tienda 23,Tienda,24.756187,-107.391461,Tienda 14,Tienda,24.762342,-107.395986,0.0,0,
+,Tienda 14,Tienda,24.762342,-107.395986,Tienda 42,Tienda,24.762871,-107.398286,0.0,0,
+,Tienda 42,Tienda,24.762871,-107.398286,Tienda 53,Tienda,24.745587,-107.414578,0.0,0,
+,Tienda 53,Tienda,24.745587,-107.414578,Tienda 4,Tienda,24.739935,-107.397153,0.0,0,
+,Tienda 4,Tienda,24.739935,-107.397153,Tienda 67,Tienda,24.728979,-107.402109,0.0,0,
+,Tienda 67,Tienda,24.728979,-107.402109,Tienda 11,Tienda,24.724408,-107.400965,0.0,0,
+,Tienda 11,Tienda,24.724408,-107.400965,Tienda 55,Tienda,24.70139,-107.397851,0.0,0,
+,Tienda 55,Tienda,24.70139,-107.397851,Centro de Distribución 6,Centro,24.704117,-107.306018,0.0,0,
+,Centro de Distribución 7,Centro,24.866489,-107.457532,Centro de Distribución 7,Centro,24.866489,-107.457532,0.0,0,
+,Centro de Distribución 7,Centro,24.866489,-107.457532,Tienda 49,Tienda,24.860734,-107.462686,0.0,0,
+,Tienda 49,Tienda,24.860734,-107.462686,Tienda 26,Tienda,24.854449,-107.460257,0.0,0,
+,Tienda 26,Tienda,24.854449,-107.460257,Tienda 29,Tienda,24.854254,-107.485191,0.0,0,
+,Tienda 29,Tienda,24.854254,-107.485191,Tienda 80,Tienda,24.887346,-107.472496,0.0,0,
+,Tienda 80,Tienda,24.887346,-107.472496,Tienda 66,Tienda,24.881653,-107.452088,0.0,0,
+,Tienda 66,Tienda,24.881653,-107.452088,Tienda 43,Tienda,24.881513,-107.450142,0.0,0,
+,Tienda 43,Tienda,24.881513,-107.450142,Tienda 61,Tienda,24.892489,-107.449644,0.0,0,
+,Tienda 61,Tienda,24.892489,-107.449644,Tienda 58,Tienda,24.888582,-107.435359,0.0,0,
+,Tienda 58,Tienda,24.888582,-107.435359,Tienda 22,Tienda,24.865748,-107.428649,0.0,0,
+,Tienda 22,Tienda,24.865748,-107.428649,Centro de Distribución 7,Centro,24.866489,-107.457532,0.0,0,
+,Centro de Distribución 8,Centro,24.736365,-107.463319,Centro de Distribución 8,Centro,24.736365,-107.463319,0.0,0,
+,Centro de Distribución 8,Centro,24.736365,-107.463319,Tienda 20,Tienda,24.709045,-107.434934,0.0,0,
+,Tienda 20,Tienda,24.709045,-107.434934,Tienda 57,Tienda,24.723973,-107.432477,0.0,0,
+,Tienda 57,Tienda,24.723973,-107.432477,Tienda 2,Tienda,24.758429,-107.426728,0.0,0,
+,Tienda 2,Tienda,24.758429,-107.426728,Tienda 33,Tienda,24.762196,-107.434963,0.0,0,
+,Tienda 33,Tienda,24.762196,-107.434963,Tienda 88,Tienda,24.767806,-107.430158,0.0,0,
+,Tienda 88,Tienda,24.767806,-107.430158,Tienda 21,Tienda,24.777735,-107.44573,0.0,0,
+,Tienda 21,Tienda,24.777735,-107.44573,Tienda 30,Tienda,24.771693,-107.476826,0.0,0,
+,Tienda 30,Tienda,24.771693,-107.476826,Tienda 81,Tienda,24.768213,-107.477305,0.0,0,
+,Tienda 81,Tienda,24.768213,-107.477305,Tienda 32,Tienda,24.76618,-107.487288,0.0,0,
+,Tienda 32,Tienda,24.76618,-107.487288,Centro de Distribución 8,Centro,24.736365,-107.463319,0.0,0,
+,Centro de Distribución 9,Centro,24.760848,-107.395049,Centro de Distribución 9,Centro,24.760848,-107.395049,0.0,0,
+,Centro de Distribución 9,Centro,24.760848,-107.395049,Tienda 56,Tienda,24.783482,-107.455578,0.0,0,
+,Tienda 56,Tienda,24.783482,-107.455578,Tienda 5,Tienda,24.818483,-107.49071,0.0,0,
+,Tienda 5,Tienda,24.818483,-107.49071,Tienda 1,Tienda,24.822371,-107.472101,0.0,0,
+,Tienda 1,Tienda,24.822371,-107.472101,Tienda 78,Tienda,24.829035,-107.465127,0.0,0,
+,Tienda 78,Tienda,24.829035,-107.465127,Tienda 6,Tienda,24.821509,-107.465895,0.0,0,
+,Tienda 6,Tienda,24.821509,-107.465895,Tienda 15,Tienda,24.809342,-107.463029,0.0,0,
+,Tienda 15,Tienda,24.809342,-107.463029,Tienda 77,Tienda,24.802419,-107.454701,0.0,0,
+,Tienda 77,Tienda,24.802419,-107.454701,Tienda 85,Tienda,24.80593,-107.45163,0.0,0,
+,Tienda 85,Tienda,24.80593,-107.45163,Tienda 62,Tienda,24.79945,-107.439824,0.0,0,
+,Tienda 62,Tienda,24.79945,-107.439824,Centro de Distribución 9,Centro,24.760848,-107.395049,0.0,0,
+,Centro de Distribución 10,Centro,24.786389,-107.441754,Centro de Distribución 10,Centro,24.786389,-107.441754,0.0,0,
+,Centro de Distribución 10,Centro,24.786389,-107.441754,Tienda 47,Tienda,24.88594,-107.338376,0.0,0,
+,Tienda 47,Tienda,24.88594,-107.338376,Tienda 82,Tienda,24.884939,-107.324532,0.0,0,
+,Tienda 82,Tienda,24.884939,-107.324532,Tienda 17,Tienda,24.8879,-107.321035,0.0,0,
+,Tienda 17,Tienda,24.8879,-107.321035,Tienda 8,Tienda,24.893126,-107.338321,0.0,0,
+,Tienda 8,Tienda,24.893126,-107.338321,Tienda 16,Tienda,24.893917,-107.344973,0.0,0,
+,Tienda 16,Tienda,24.893917,-107.344973,Tienda 50,Tienda,24.878512,-107.392132,0.0,0,
+,Tienda 50,Tienda,24.878512,-107.392132,Tienda 35,Tienda,24.877443,-107.405557,0.0,0,
+,Tienda 35,Tienda,24.877443,-107.405557,Tienda 68,Tienda,24.89713,-107.451589,0.0,0,
+,Tienda 68,Tienda,24.89713,-107.451589,Tienda 76,Tienda,24.835513,-107.496682,0.0,0,
+,Tienda 76,Tienda,24.835513,-107.496682,Centro de Distribución 10,Centro,24.786389,-107.441754,0.0,0,
+,Tienda 48,conexion_extra,24.826681,-107.325708,Tienda 69,conexion_extra,24.834427,-107.347676,0.0,0,
+,Tienda 64,conexion_extra,24.821913,-107.399464,Tienda 39,conexion_extra,24.804547,-107.414492,0.0,0,
+,Tienda 65,conexion_extra,24.710296,-107.444271,Tienda 20,conexion_extra,24.709045,-107.434934,0.0,0,
+,Tienda 13,conexion_extra,24.751756,-107.367496,Tienda 83,conexion_extra,24.751588,-107.368003,0.0,0,
+,Tienda 71,conexion_extra,24.773557,-107.373539,Tienda 83,conexion_extra,24.751588,-107.368003,0.0,0,
+,Tienda 42,conexion_extra,24.762871,-107.398286,Tienda 71,conexion_extra,24.773557,-107.373539,0.0,0,
+,Tienda 26,conexion_extra,24.854449,-107.460257,Tienda 78,conexion_extra,24.829035,-107.465127,0.0,0,
+,Tienda 21,conexion_extra,24.777735,-107.44573,Tienda 56,conexion_extra,24.783482,-107.455578,0.0,0,
+,Tienda 62,conexion_extra,24.79945,-107.439824,Centro de Distribución 10,conexion_extra,24.786389,-107.441754,0.0,0,
+tsp_augmented_cycle_2_2,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,0.0,0,
+tsp_augmented_cycle_2_2,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,0.0,0,
+bridge_step1_23_8,Tienda 14,Tienda,24.762342,-107.395986,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,1.0,0,
+bridge_step1_8_23,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,Tienda 14,Tienda,24.762342,-107.395986,1.0,0,
+tourlink_3_22,Centro de Distribución 4,Centro de Distribución,24.711617,-107.326765,Tienda 13,Tienda,24.751756,-107.367496,,1,tour
+tourlink_22_3,Tienda 13,Tienda,24.751756,-107.367496,Centro de Distribución 4,Centro de Distribución,24.711617,-107.326765,,1,tour
+tourlink_22_23,Tienda 13,Tienda,24.751756,-107.367496,Tienda 14,Tienda,24.762342,-107.395986,,1,tour
+tourlink_23_22,Tienda 14,Tienda,24.762342,-107.395986,Tienda 13,Tienda,24.751756,-107.367496,,1,tour
+tourlink_23_85,Tienda 14,Tienda,24.762342,-107.395986,Tienda 76,Tienda,24.835513,-107.496682,,1,tour
+tourlink_85_23,Tienda 76,Tienda,24.835513,-107.496682,Tienda 14,Tienda,24.762342,-107.395986,,1,tour
+tourlink_17_85,Tienda 8,Tienda,24.893126,-107.338321,Tienda 76,Tienda,24.835513,-107.496682,,1,tour
+tourlink_85_17,Tienda 76,Tienda,24.835513,-107.496682,Tienda 8,Tienda,24.893126,-107.338321,,1,tour
+tourlink_25_26,Tienda 16,Tienda,24.893917,-107.344973,Tienda 17,Tienda,24.8879,-107.321035,,1,tour
+tourlink_26_25,Tienda 17,Tienda,24.8879,-107.321035,Tienda 16,Tienda,24.893917,-107.344973,,1,tour
+tourlink_26_59,Tienda 17,Tienda,24.8879,-107.321035,Tienda 50,Tienda,24.878512,-107.392132,,1,tour
+tourlink_59_26,Tienda 50,Tienda,24.878512,-107.392132,Tienda 17,Tienda,24.8879,-107.321035,,1,tour
+tourlink_50_59,Tienda 41,Tienda,24.706286,-107.372718,Tienda 50,Tienda,24.878512,-107.392132,,1,tour
+tourlink_59_50,Tienda 50,Tienda,24.878512,-107.392132,Tienda 41,Tienda,24.706286,-107.372718,,1,tour
+tourlink_36_45,Tienda 27,Tienda,24.701104,-107.336908,Tienda 36,Tienda,24.723919,-107.357351,,1,tour
+tourlink_45_36,Tienda 36,Tienda,24.723919,-107.357351,Tienda 27,Tienda,24.701104,-107.336908,,1,tour
+tourlink_21_45,Tienda 12,Tienda,24.706878,-107.318136,Tienda 36,Tienda,24.723919,-107.357351,,1,tour
+tourlink_45_21,Tienda 36,Tienda,24.723919,-107.357351,Tienda 12,Tienda,24.706878,-107.318136,,1,tour
+tourlink_16_95,Tienda 7,Tienda,24.71301,-107.310223,Tienda 86,Tienda,24.718621,-107.320557,,1,tour
+tourlink_95_16,Tienda 86,Tienda,24.718621,-107.320557,Tienda 7,Tienda,24.71301,-107.310223,,1,tour
+tourlink_33_69,Tienda 24,Tienda,24.728185,-107.339561,Tienda 60,Tienda,24.772726,-107.305644,,1,tour
+tourlink_69_33,Tienda 60,Tienda,24.772726,-107.305644,Tienda 24,Tienda,24.728185,-107.339561,,1,tour
+tourlink_14_69,Tienda 5,Tienda,24.818483,-107.49071,Tienda 60,Tienda,24.772726,-107.305644,,1,tour
+tourlink_69_14,Tienda 60,Tienda,24.772726,-107.305644,Tienda 5,Tienda,24.818483,-107.49071,,1,tour
+tourlink_14_90,Tienda 5,Tienda,24.818483,-107.49071,Tienda 81,Tienda,24.768213,-107.477305,,1,tour
+tourlink_90_14,Tienda 81,Tienda,24.768213,-107.477305,Tienda 5,Tienda,24.818483,-107.49071,,1,tour
+tourlink_39_97,Tienda 30,Tienda,24.771693,-107.476826,Tienda 88,Tienda,24.767806,-107.430158,,1,tour
+tourlink_97_39,Tienda 88,Tienda,24.767806,-107.430158,Tienda 30,Tienda,24.771693,-107.476826,,1,tour
+tourlink_11_49,Tienda 2,Tienda,24.758429,-107.426728,Tienda 40,Tienda,24.705084,-107.478422,,1,tour
+tourlink_49_11,Tienda 40,Tienda,24.705084,-107.478422,Tienda 2,Tienda,24.758429,-107.426728,,1,tour
+tourlink_49_61,Tienda 40,Tienda,24.705084,-107.478422,Tienda 52,Tienda,24.763601,-107.47799,,1,tour
+tourlink_61_49,Tienda 52,Tienda,24.763601,-107.47799,Tienda 40,Tienda,24.705084,-107.478422,,1,tour
+tourlink_61_72,Tienda 52,Tienda,24.763601,-107.47799,Tienda 63,Tienda,24.756968,-107.492623,,1,tour
+tourlink_72_61,Tienda 63,Tienda,24.756968,-107.492623,Tienda 52,Tienda,24.763601,-107.47799,,1,tour
+tourlink_2_18,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,Tienda 9,Tienda,24.760923,-107.480466,,1,tour
+tourlink_18_2,Tienda 9,Tienda,24.760923,-107.480466,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,,1,tour
+tourlink_2_67,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,Tienda 58,Tienda,24.888582,-107.435359,,1,tour
+tourlink_67_2,Tienda 58,Tienda,24.888582,-107.435359,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,,1,tour
+tourlink_52_67,Tienda 43,Tienda,24.881513,-107.450142,Tienda 58,Tienda,24.888582,-107.435359,,1,tour
+tourlink_67_52,Tienda 58,Tienda,24.888582,-107.435359,Tienda 43,Tienda,24.881513,-107.450142,,1,tour
+tourlink_52_54,Tienda 43,Tienda,24.881513,-107.450142,Tienda 45,Tienda,24.74576,-107.484604,,1,tour
+tourlink_54_52,Tienda 45,Tienda,24.74576,-107.484604,Tienda 43,Tienda,24.881513,-107.450142,,1,tour
+tourlink_54_83,Tienda 45,Tienda,24.74576,-107.484604,Tienda 74,Tienda,24.764156,-107.462696,,1,tour
+tourlink_83_54,Tienda 74,Tienda,24.764156,-107.462696,Tienda 45,Tienda,24.74576,-107.484604,,1,tour
+tourlink_28_83,Tienda 19,Tienda,24.717699,-107.460803,Tienda 74,Tienda,24.764156,-107.462696,,1,tour
+tourlink_83_28,Tienda 74,Tienda,24.764156,-107.462696,Tienda 19,Tienda,24.717699,-107.460803,,1,tour
+tourlink_28_29,Tienda 19,Tienda,24.717699,-107.460803,Tienda 20,Tienda,24.709045,-107.434934,,1,tour
+tourlink_29_28,Tienda 20,Tienda,24.709045,-107.434934,Tienda 19,Tienda,24.717699,-107.460803,,1,tour
+tourlink_29_30,Tienda 20,Tienda,24.709045,-107.434934,Tienda 21,Tienda,24.777735,-107.44573,,1,tour
+tourlink_30_29,Tienda 21,Tienda,24.777735,-107.44573,Tienda 20,Tienda,24.709045,-107.434934,,1,tour
+tourlink_30_84,Tienda 21,Tienda,24.777735,-107.44573,Tienda 75,Tienda,24.708155,-107.381821,,1,tour
+tourlink_84_30,Tienda 75,Tienda,24.708155,-107.381821,Tienda 21,Tienda,24.777735,-107.44573,,1,tour
+tourlink_19_84,Tienda 10,Tienda,24.836847,-107.41197,Tienda 75,Tienda,24.708155,-107.381821,,1,tour
+tourlink_84_19,Tienda 75,Tienda,24.708155,-107.381821,Tienda 10,Tienda,24.836847,-107.41197,,1,tour
+tourlink_73_93,Tienda 64,Tienda,24.821913,-107.399464,Tienda 84,Tienda,24.863444,-107.38896,,1,tour
+tourlink_93_73,Tienda 84,Tienda,24.863444,-107.38896,Tienda 64,Tienda,24.821913,-107.399464,,1,tour
+tourlink_5_73,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,Tienda 64,Tienda,24.821913,-107.399464,,1,tour
+tourlink_73_5,Tienda 64,Tienda,24.821913,-107.399464,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,,1,tour
+tourlink_32_68,Tienda 23,Tienda,24.756187,-107.391461,Tienda 59,Tienda,24.803758,-107.359396,,1,tour
+tourlink_68_32,Tienda 59,Tienda,24.803758,-107.359396,Tienda 23,Tienda,24.756187,-107.391461,,1,tour
+tourlink_12_41,Tienda 3,Tienda,24.791214,-107.342965,Tienda 32,Tienda,24.76618,-107.487288,,1,tour
+tourlink_41_12,Tienda 32,Tienda,24.76618,-107.487288,Tienda 3,Tienda,24.791214,-107.342965,,1,tour
+tourlink_7_55,Centro de Distribución 8,Centro de Distribución,24.736365,-107.463319,Tienda 46,Tienda,24.75795,-107.467756,,1,tour
+tourlink_55_7,Tienda 46,Tienda,24.75795,-107.467756,Centro de Distribución 8,Centro de Distribución,24.736365,-107.463319,,1,tour
+tourlink_55_74,Tienda 46,Tienda,24.75795,-107.467756,Tienda 65,Tienda,24.710296,-107.444271,,1,tour
+tourlink_74_55,Tienda 65,Tienda,24.710296,-107.444271,Tienda 46,Tienda,24.75795,-107.467756,,1,tour
+tourlink_66_74,Tienda 57,Tienda,24.723973,-107.432477,Tienda 65,Tienda,24.710296,-107.444271,,1,tour
+tourlink_74_66,Tienda 65,Tienda,24.710296,-107.444271,Tienda 57,Tienda,24.723973,-107.432477,,1,tour
+tourlink_66_79,Tienda 57,Tienda,24.723973,-107.432477,Tienda 70,Tienda,24.747528,-107.354357,,1,tour
+tourlink_79_66,Tienda 70,Tienda,24.747528,-107.354357,Tienda 57,Tienda,24.723973,-107.432477,,1,tour
+tourlink_53_80,Tienda 44,Tienda,24.782077,-107.34889,Tienda 71,Tienda,24.773557,-107.373539,,1,tour
+tourlink_80_53,Tienda 71,Tienda,24.773557,-107.373539,Tienda 44,Tienda,24.782077,-107.34889,,1,tour
+tourlink_71_80,Tienda 62,Tienda,24.79945,-107.439824,Tienda 71,Tienda,24.773557,-107.373539,,1,tour
+tourlink_80_71,Tienda 71,Tienda,24.773557,-107.373539,Tienda 62,Tienda,24.79945,-107.439824,,1,tour
+tourlink_56_71,Tienda 47,Tienda,24.88594,-107.338376,Tienda 62,Tienda,24.79945,-107.439824,,1,tour
+tourlink_71_56,Tienda 62,Tienda,24.79945,-107.439824,Tienda 47,Tienda,24.88594,-107.338376,,1,tour
+tourlink_56_88,Tienda 47,Tienda,24.88594,-107.338376,Tienda 79,Tienda,24.838188,-107.422653,,1,tour
+tourlink_88_56,Tienda 79,Tienda,24.838188,-107.422653,Tienda 47,Tienda,24.88594,-107.338376,,1,tour
+tourlink_1_96,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,Tienda 87,Tienda,24.880084,-107.37338,,1,tour
+tourlink_96_1,Tienda 87,Tienda,24.880084,-107.37338,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,,1,tour
+tourlink_1_57,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,Tienda 48,Tienda,24.826681,-107.325708,,1,tour
+tourlink_57_1,Tienda 48,Tienda,24.826681,-107.325708,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,,1,tour
+tourlink_27_37,Tienda 18,Tienda,24.81958,-107.315625,Tienda 28,Tienda,24.841371,-107.354199,,1,tour
+tourlink_37_27,Tienda 28,Tienda,24.841371,-107.354199,Tienda 18,Tienda,24.81958,-107.315625,,1,tour
+tourlink_40_43,Tienda 31,Tienda,24.872621,-107.37534,Tienda 34,Tienda,24.845921,-107.372489,,1,tour
+tourlink_43_40,Tienda 34,Tienda,24.845921,-107.372489,Tienda 31,Tienda,24.872621,-107.37534,,1,tour
+tourlink_43_81,Tienda 34,Tienda,24.845921,-107.372489,Tienda 72,Tienda,24.826706,-107.392845,,1,tour
+tourlink_81_43,Tienda 72,Tienda,24.826706,-107.392845,Tienda 34,Tienda,24.845921,-107.372489,,1,tour
+tourlink_48_81,Tienda 39,Tienda,24.804547,-107.414492,Tienda 72,Tienda,24.826706,-107.392845,,1,tour
+tourlink_81_48,Tienda 72,Tienda,24.826706,-107.392845,Tienda 39,Tienda,24.804547,-107.414492,,1,tour
+tourlink_48_51,Tienda 39,Tienda,24.804547,-107.414492,Tienda 42,Tienda,24.762871,-107.398286,,1,tour
+tourlink_51_48,Tienda 42,Tienda,24.762871,-107.398286,Tienda 39,Tienda,24.804547,-107.414492,,1,tour
+tourlink_51_58,Tienda 42,Tienda,24.762871,-107.398286,Tienda 49,Tienda,24.860734,-107.462686,,1,tour
+tourlink_58_51,Tienda 49,Tienda,24.860734,-107.462686,Tienda 42,Tienda,24.762871,-107.398286,,1,tour
+tourlink_58_70,Tienda 49,Tienda,24.860734,-107.462686,Tienda 61,Tienda,24.892489,-107.449644,,1,tour
+tourlink_70_58,Tienda 61,Tienda,24.892489,-107.449644,Tienda 49,Tienda,24.860734,-107.462686,,1,tour
+tourlink_70_75,Tienda 61,Tienda,24.892489,-107.449644,Tienda 66,Tienda,24.881653,-107.452088,,1,tour
+tourlink_75_70,Tienda 66,Tienda,24.881653,-107.452088,Tienda 61,Tienda,24.892489,-107.449644,,1,tour
+tourlink_38_75,Tienda 29,Tienda,24.854254,-107.485191,Tienda 66,Tienda,24.881653,-107.452088,,1,tour
+tourlink_75_38,Tienda 66,Tienda,24.881653,-107.452088,Tienda 29,Tienda,24.854254,-107.485191,,1,tour
+tourlink_10_89,Tienda 1,Tienda,24.822371,-107.472101,Tienda 80,Tienda,24.887346,-107.472496,,1,tour
+tourlink_89_10,Tienda 80,Tienda,24.887346,-107.472496,Tienda 1,Tienda,24.822371,-107.472101,,1,tour
+tourlink_10_65,Tienda 1,Tienda,24.822371,-107.472101,Tienda 56,Tienda,24.783482,-107.455578,,1,tour
+tourlink_65_10,Tienda 56,Tienda,24.783482,-107.455578,Tienda 1,Tienda,24.822371,-107.472101,,1,tour
+tourlink_65_87,Tienda 56,Tienda,24.783482,-107.455578,Tienda 78,Tienda,24.829035,-107.465127,,1,tour
+tourlink_87_65,Tienda 78,Tienda,24.829035,-107.465127,Tienda 56,Tienda,24.783482,-107.455578,,1,tour
+tourlink_15_86,Tienda 6,Tienda,24.821509,-107.465895,Tienda 77,Tienda,24.802419,-107.454701,,1,tour
+tourlink_86_15,Tienda 77,Tienda,24.802419,-107.454701,Tienda 6,Tienda,24.821509,-107.465895,,1,tour
+tourlink_13_86,Tienda 4,Tienda,24.739935,-107.397153,Tienda 77,Tienda,24.802419,-107.454701,,1,tour
+tourlink_86_13,Tienda 77,Tienda,24.802419,-107.454701,Tienda 4,Tienda,24.739935,-107.397153,,1,tour
+tourlink_0_62,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,Tienda 53,Tienda,24.745587,-107.414578,,1,tour
+tourlink_62_0,Tienda 53,Tienda,24.745587,-107.414578,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,,1,tour
+tourlink_0_60,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,Tienda 51,Tienda,24.861488,-107.320782,,1,tour
+tourlink_60_0,Tienda 51,Tienda,24.861488,-107.320782,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,,1,tour
+tourlink_63_98,Tienda 54,Tienda,24.863603,-107.327854,Tienda 89,Tienda,24.845191,-107.320578,,1,tour
+tourlink_98_63,Tienda 89,Tienda,24.845191,-107.320578,Tienda 54,Tienda,24.863603,-107.327854,,1,tour
+tourlink_78_99,Tienda 69,Tienda,24.834427,-107.347676,Tienda 90,Tienda,24.877417,-107.344025,,1,tour
+tourlink_99_78,Tienda 90,Tienda,24.877417,-107.344025,Tienda 69,Tienda,24.834427,-107.347676,,1,tour
+tourlink_4_77,Centro de Distribución 5,Centro de Distribución,24.820223,-107.358385,Tienda 68,Tienda,24.89713,-107.451589,,1,tour
+tourlink_77_4,Tienda 68,Tienda,24.89713,-107.451589,Centro de Distribución 5,Centro de Distribución,24.820223,-107.358385,,1,tour
+tourlink_9_44,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,Tienda 35,Tienda,24.877443,-107.405557,,1,tour
+tourlink_44_9,Tienda 35,Tienda,24.877443,-107.405557,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,,1,tour
+tourlink_9_91,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,Tienda 82,Tienda,24.884939,-107.324532,,1,tour
+tourlink_91_9,Tienda 82,Tienda,24.884939,-107.324532,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,,1,tour
+tourlink_64_91,Tienda 55,Tienda,24.70139,-107.397851,Tienda 82,Tienda,24.884939,-107.324532,,1,tour
+tourlink_91_64,Tienda 82,Tienda,24.884939,-107.324532,Tienda 55,Tienda,24.70139,-107.397851,,1,tour
+tourlink_8_76,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,Tienda 67,Tienda,24.728979,-107.402109,,1,tour
+tourlink_76_8,Tienda 67,Tienda,24.728979,-107.402109,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,,1,tour
+tourlink_8_94,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,Tienda 85,Tienda,24.80593,-107.45163,,1,tour
+tourlink_94_8,Tienda 85,Tienda,24.80593,-107.45163,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,,1,tour
+tourlink_24_94,Tienda 15,Tienda,24.809342,-107.463029,Tienda 85,Tienda,24.80593,-107.45163,,1,tour
+tourlink_94_24,Tienda 85,Tienda,24.80593,-107.45163,Tienda 15,Tienda,24.809342,-107.463029,,1,tour
+tourlink_6_24,Centro de Distribución 7,Centro de Distribución,24.866489,-107.457532,Tienda 15,Tienda,24.809342,-107.463029,,1,tour
+tourlink_24_6,Tienda 15,Tienda,24.809342,-107.463029,Centro de Distribución 7,Centro de Distribución,24.866489,-107.457532,,1,tour
+tourlink_31_35,Tienda 22,Tienda,24.865748,-107.428649,Tienda 26,Tienda,24.854449,-107.460257,,1,tour
+tourlink_35_31,Tienda 26,Tienda,24.854449,-107.460257,Tienda 22,Tienda,24.865748,-107.428649,,1,tour
+tourlink_35_82,Tienda 26,Tienda,24.854449,-107.460257,Tienda 73,Tienda,24.718058,-107.33294,,1,tour
+tourlink_82_35,Tienda 73,Tienda,24.718058,-107.33294,Tienda 26,Tienda,24.854449,-107.460257,,1,tour
+manual_Centro de Distribución 6_Tienda 18,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,Tienda 18,Tienda,24.81958,-107.315625,0.0,1,manual_fix
+manual_Tienda 18_Centro de Distribución 6,Tienda 18,Tienda,24.81958,-107.315625,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,0.0,1,manual_fix
+tour_9_72,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,Tienda 63,Tienda,24.756968,-107.492623,,1,tour
+tour_72_9,Tienda 63,Tienda,24.756968,-107.492623,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,,1,tour
+tour_14_72,Tienda 5,Tienda,24.818483,-107.49071,Tienda 63,Tienda,24.756968,-107.492623,,1,tour
+tour_72_14,Tienda 63,Tienda,24.756968,-107.492623,Tienda 5,Tienda,24.818483,-107.49071,,1,tour
+tour_14_76,Tienda 5,Tienda,24.818483,-107.49071,Tienda 67,Tienda,24.728979,-107.402109,,1,tour
+tour_76_14,Tienda 67,Tienda,24.728979,-107.402109,Tienda 5,Tienda,24.818483,-107.49071,,1,tour
+tour_36_76,Tienda 27,Tienda,24.701104,-107.336908,Tienda 67,Tienda,24.728979,-107.402109,,1,tour
+tour_76_36,Tienda 67,Tienda,24.728979,-107.402109,Tienda 27,Tienda,24.701104,-107.336908,,1,tour
+tour_29_36,Tienda 20,Tienda,24.709045,-107.434934,Tienda 27,Tienda,24.701104,-107.336908,,1,tour
+tour_36_29,Tienda 27,Tienda,24.701104,-107.336908,Tienda 20,Tienda,24.709045,-107.434934,,1,tour
+tour_29_42,Tienda 20,Tienda,24.709045,-107.434934,Tienda 33,Tienda,24.762196,-107.434963,,1,tour
+tour_42_29,Tienda 33,Tienda,24.762196,-107.434963,Tienda 20,Tienda,24.709045,-107.434934,,1,tour
+tour_15_42,Tienda 6,Tienda,24.821509,-107.465895,Tienda 33,Tienda,24.762196,-107.434963,,1,tour
+tour_42_15,Tienda 33,Tienda,24.762196,-107.434963,Tienda 6,Tienda,24.821509,-107.465895,,1,tour
+tour_1_15,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,Tienda 6,Tienda,24.821509,-107.465895,,1,tour
+tour_15_1,Tienda 6,Tienda,24.821509,-107.465895,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,,1,tour
+tour_1_88,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,Tienda 79,Tienda,24.838188,-107.422653,,1,tour
+tour_88_1,Tienda 79,Tienda,24.838188,-107.422653,Centro de Distribución 2,Centro de Distribución,24.846399,-107.380268,,1,tour
+tour_88_90,Tienda 79,Tienda,24.838188,-107.422653,Tienda 81,Tienda,24.768213,-107.477305,,1,tour
+tour_90_88,Tienda 81,Tienda,24.768213,-107.477305,Tienda 79,Tienda,24.838188,-107.422653,,1,tour
+tour_3_90,Centro de Distribución 4,Centro de Distribución,24.711617,-107.326765,Tienda 81,Tienda,24.768213,-107.477305,,1,tour
+tour_90_3,Tienda 81,Tienda,24.768213,-107.477305,Centro de Distribución 4,Centro de Distribución,24.711617,-107.326765,,1,tour
+tour_3_74,Centro de Distribución 4,Centro de Distribución,24.711617,-107.326765,Tienda 65,Tienda,24.710296,-107.444271,,1,tour
+tour_74_3,Tienda 65,Tienda,24.710296,-107.444271,Centro de Distribución 4,Centro de Distribución,24.711617,-107.326765,,1,tour
+tour_34_74,Tienda 25,Tienda,24.71491,-107.302623,Tienda 65,Tienda,24.710296,-107.444271,,1,tour
+tour_74_34,Tienda 65,Tienda,24.710296,-107.444271,Tienda 25,Tienda,24.71491,-107.302623,,1,tour
+tour_34_38,Tienda 25,Tienda,24.71491,-107.302623,Tienda 29,Tienda,24.854254,-107.485191,,1,tour
+tour_38_34,Tienda 29,Tienda,24.854254,-107.485191,Tienda 25,Tienda,24.71491,-107.302623,,1,tour
+tour_38_48,Tienda 29,Tienda,24.854254,-107.485191,Tienda 39,Tienda,24.804547,-107.414492,,1,tour
+tour_48_38,Tienda 39,Tienda,24.804547,-107.414492,Tienda 29,Tienda,24.854254,-107.485191,,1,tour
+tour_48_71,Tienda 39,Tienda,24.804547,-107.414492,Tienda 62,Tienda,24.79945,-107.439824,,1,tour
+tour_71_48,Tienda 62,Tienda,24.79945,-107.439824,Tienda 39,Tienda,24.804547,-107.414492,,1,tour
+tour_71_98,Tienda 62,Tienda,24.79945,-107.439824,Tienda 89,Tienda,24.845191,-107.320578,,1,tour
+tour_98_71,Tienda 89,Tienda,24.845191,-107.320578,Tienda 62,Tienda,24.79945,-107.439824,,1,tour
+tour_54_98,Tienda 45,Tienda,24.74576,-107.484604,Tienda 89,Tienda,24.845191,-107.320578,,1,tour
+tour_98_54,Tienda 89,Tienda,24.845191,-107.320578,Tienda 45,Tienda,24.74576,-107.484604,,1,tour
+tour_54_63,Tienda 45,Tienda,24.74576,-107.484604,Tienda 54,Tienda,24.863603,-107.327854,,1,tour
+tour_63_54,Tienda 54,Tienda,24.863603,-107.327854,Tienda 45,Tienda,24.74576,-107.484604,,1,tour
+tour_63_92,Tienda 54,Tienda,24.863603,-107.327854,Tienda 83,Tienda,24.751588,-107.368003,,1,tour
+tour_92_63,Tienda 83,Tienda,24.751588,-107.368003,Tienda 54,Tienda,24.863603,-107.327854,,1,tour
+tour_27_92,Tienda 18,Tienda,24.81958,-107.315625,Tienda 83,Tienda,24.751588,-107.368003,,1,tour
+tour_92_27,Tienda 83,Tienda,24.751588,-107.368003,Tienda 18,Tienda,24.81958,-107.315625,,1,tour
+tour_25_27,Tienda 16,Tienda,24.893917,-107.344973,Tienda 18,Tienda,24.81958,-107.315625,,1,tour
+tour_27_25,Tienda 18,Tienda,24.81958,-107.315625,Tienda 16,Tienda,24.893917,-107.344973,,1,tour
+tour_25_94,Tienda 16,Tienda,24.893917,-107.344973,Tienda 85,Tienda,24.80593,-107.45163,,1,tour
+tour_94_25,Tienda 85,Tienda,24.80593,-107.45163,Tienda 16,Tienda,24.893917,-107.344973,,1,tour
+tour_44_94,Tienda 35,Tienda,24.877443,-107.405557,Tienda 85,Tienda,24.80593,-107.45163,,1,tour
+tour_94_44,Tienda 85,Tienda,24.80593,-107.45163,Tienda 35,Tienda,24.877443,-107.405557,,1,tour
+tour_44_58,Tienda 35,Tienda,24.877443,-107.405557,Tienda 49,Tienda,24.860734,-107.462686,,1,tour
+tour_58_44,Tienda 49,Tienda,24.860734,-107.462686,Tienda 35,Tienda,24.877443,-107.405557,,1,tour
+tour_16_58,Tienda 7,Tienda,24.71301,-107.310223,Tienda 49,Tienda,24.860734,-107.462686,,1,tour
+tour_58_16,Tienda 49,Tienda,24.860734,-107.462686,Tienda 7,Tienda,24.71301,-107.310223,,1,tour
+tour_16_19,Tienda 7,Tienda,24.71301,-107.310223,Tienda 10,Tienda,24.836847,-107.41197,,1,tour
+tour_19_16,Tienda 10,Tienda,24.836847,-107.41197,Tienda 7,Tienda,24.71301,-107.310223,,1,tour
+tour_19_57,Tienda 10,Tienda,24.836847,-107.41197,Tienda 48,Tienda,24.826681,-107.325708,,1,tour
+tour_57_19,Tienda 48,Tienda,24.826681,-107.325708,Tienda 10,Tienda,24.836847,-107.41197,,1,tour
+tour_7_57,Centro de Distribución 8,Centro de Distribución,24.736365,-107.463319,Tienda 48,Tienda,24.826681,-107.325708,,1,tour
+tour_57_7,Tienda 48,Tienda,24.826681,-107.325708,Centro de Distribución 8,Centro de Distribución,24.736365,-107.463319,,1,tour
+tour_7_80,Centro de Distribución 8,Centro de Distribución,24.736365,-107.463319,Tienda 71,Tienda,24.773557,-107.373539,,1,tour
+tour_80_7,Tienda 71,Tienda,24.773557,-107.373539,Centro de Distribución 8,Centro de Distribución,24.736365,-107.463319,,1,tour
+tour_2_80,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,Tienda 71,Tienda,24.773557,-107.373539,,1,tour
+tour_80_2,Tienda 71,Tienda,24.773557,-107.373539,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,,1,tour
+tour_2_45,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,Tienda 36,Tienda,24.723919,-107.357351,,1,tour
+tour_45_2,Tienda 36,Tienda,24.723919,-107.357351,Centro de Distribución 3,Centro de Distribución,24.731204,-107.468801,,1,tour
+tour_45_96,Tienda 36,Tienda,24.723919,-107.357351,Tienda 87,Tienda,24.880084,-107.37338,,1,tour
+tour_96_45,Tienda 87,Tienda,24.880084,-107.37338,Tienda 36,Tienda,24.723919,-107.357351,,1,tour
+tour_49_96,Tienda 40,Tienda,24.705084,-107.478422,Tienda 87,Tienda,24.880084,-107.37338,,1,tour
+tour_96_49,Tienda 87,Tienda,24.880084,-107.37338,Tienda 40,Tienda,24.705084,-107.478422,,1,tour
+tour_39_49,Tienda 30,Tienda,24.771693,-107.476826,Tienda 40,Tienda,24.705084,-107.478422,,1,tour
+tour_49_39,Tienda 40,Tienda,24.705084,-107.478422,Tienda 30,Tienda,24.771693,-107.476826,,1,tour
+tour_39_87,Tienda 30,Tienda,24.771693,-107.476826,Tienda 78,Tienda,24.829035,-107.465127,,1,tour
+tour_87_39,Tienda 78,Tienda,24.829035,-107.465127,Tienda 30,Tienda,24.771693,-107.476826,,1,tour
+tour_79_87,Tienda 70,Tienda,24.747528,-107.354357,Tienda 78,Tienda,24.829035,-107.465127,,1,tour
+tour_87_79,Tienda 78,Tienda,24.829035,-107.465127,Tienda 70,Tienda,24.747528,-107.354357,,1,tour
+tour_33_66,Tienda 24,Tienda,24.728185,-107.339561,Tienda 57,Tienda,24.723973,-107.432477,,1,tour
+tour_66_33,Tienda 57,Tienda,24.723973,-107.432477,Tienda 24,Tienda,24.728185,-107.339561,,1,tour
+tour_33_53,Tienda 24,Tienda,24.728185,-107.339561,Tienda 44,Tienda,24.782077,-107.34889,,1,tour
+tour_53_33,Tienda 44,Tienda,24.782077,-107.34889,Tienda 24,Tienda,24.728185,-107.339561,,1,tour
+tour_35_53,Tienda 26,Tienda,24.854449,-107.460257,Tienda 44,Tienda,24.782077,-107.34889,,1,tour
+tour_53_35,Tienda 44,Tienda,24.782077,-107.34889,Tienda 26,Tienda,24.854449,-107.460257,,1,tour
+tour_35_91,Tienda 26,Tienda,24.854449,-107.460257,Tienda 82,Tienda,24.884939,-107.324532,,1,tour
+tour_91_35,Tienda 82,Tienda,24.884939,-107.324532,Tienda 26,Tienda,24.854449,-107.460257,,1,tour
+tour_50_91,Tienda 41,Tienda,24.706286,-107.372718,Tienda 82,Tienda,24.884939,-107.324532,,1,tour
+tour_91_50,Tienda 82,Tienda,24.884939,-107.324532,Tienda 41,Tienda,24.706286,-107.372718,,1,tour
+tour_22_78,Tienda 13,Tienda,24.751756,-107.367496,Tienda 69,Tienda,24.834427,-107.347676,,1,tour
+tour_78_22,Tienda 69,Tienda,24.834427,-107.347676,Tienda 13,Tienda,24.751756,-107.367496,,1,tour
+tour_70_78,Tienda 61,Tienda,24.892489,-107.449644,Tienda 69,Tienda,24.834427,-107.347676,,1,tour
+tour_78_70,Tienda 69,Tienda,24.834427,-107.347676,Tienda 61,Tienda,24.892489,-107.449644,,1,tour
+tour_61_70,Tienda 52,Tienda,24.763601,-107.47799,Tienda 61,Tienda,24.892489,-107.449644,,1,tour
+tour_70_61,Tienda 61,Tienda,24.892489,-107.449644,Tienda 52,Tienda,24.763601,-107.47799,,1,tour
+tour_37_83,Tienda 28,Tienda,24.841371,-107.354199,Tienda 74,Tienda,24.764156,-107.462696,,1,tour
+tour_83_37,Tienda 74,Tienda,24.764156,-107.462696,Tienda 28,Tienda,24.841371,-107.354199,,1,tour
+tour_43_69,Tienda 34,Tienda,24.845921,-107.372489,Tienda 60,Tienda,24.772726,-107.305644,,1,tour
+tour_69_43,Tienda 60,Tienda,24.772726,-107.305644,Tienda 34,Tienda,24.845921,-107.372489,,1,tour
+tour_17_69,Tienda 8,Tienda,24.893126,-107.338321,Tienda 60,Tienda,24.772726,-107.305644,,1,tour
+tour_69_17,Tienda 60,Tienda,24.772726,-107.305644,Tienda 8,Tienda,24.893126,-107.338321,,1,tour
+tour_17_99,Tienda 8,Tienda,24.893126,-107.338321,Tienda 90,Tienda,24.877417,-107.344025,,1,tour
+tour_99_17,Tienda 90,Tienda,24.877417,-107.344025,Tienda 8,Tienda,24.893126,-107.338321,,1,tour
+tour_62_99,Tienda 53,Tienda,24.745587,-107.414578,Tienda 90,Tienda,24.877417,-107.344025,,1,tour
+tour_99_62,Tienda 90,Tienda,24.877417,-107.344025,Tienda 53,Tienda,24.745587,-107.414578,,1,tour
+tour_20_62,Tienda 11,Tienda,24.724408,-107.400965,Tienda 53,Tienda,24.745587,-107.414578,,1,tour
+tour_62_20,Tienda 53,Tienda,24.745587,-107.414578,Tienda 11,Tienda,24.724408,-107.400965,,1,tour
+tour_20_55,Tienda 11,Tienda,24.724408,-107.400965,Tienda 46,Tienda,24.75795,-107.467756,,1,tour
+tour_55_20,Tienda 46,Tienda,24.75795,-107.467756,Tienda 11,Tienda,24.724408,-107.400965,,1,tour
+tour_55_68,Tienda 46,Tienda,24.75795,-107.467756,Tienda 59,Tienda,24.803758,-107.359396,,1,tour
+tour_68_55,Tienda 59,Tienda,24.803758,-107.359396,Tienda 46,Tienda,24.75795,-107.467756,,1,tour
+tour_6_68,Centro de Distribución 7,Centro de Distribución,24.866489,-107.457532,Tienda 59,Tienda,24.803758,-107.359396,,1,tour
+tour_68_6,Tienda 59,Tienda,24.803758,-107.359396,Centro de Distribución 7,Centro de Distribución,24.866489,-107.457532,,1,tour
+tour_6_81,Centro de Distribución 7,Centro de Distribución,24.866489,-107.457532,Tienda 72,Tienda,24.826706,-107.392845,,1,tour
+tour_81_6,Tienda 72,Tienda,24.826706,-107.392845,Centro de Distribución 7,Centro de Distribución,24.866489,-107.457532,,1,tour
+tour_5_81,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,Tienda 72,Tienda,24.826706,-107.392845,,1,tour
+tour_81_5,Tienda 72,Tienda,24.826706,-107.392845,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,,1,tour
+tour_5_95,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,Tienda 86,Tienda,24.718621,-107.320557,,1,tour
+tour_95_5,Tienda 86,Tienda,24.718621,-107.320557,Centro de Distribución 6,Centro de Distribución,24.704117,-107.306018,,1,tour
+tour_89_95,Tienda 80,Tienda,24.887346,-107.472496,Tienda 86,Tienda,24.718621,-107.320557,,1,tour
+tour_95_89,Tienda 86,Tienda,24.718621,-107.320557,Tienda 80,Tienda,24.887346,-107.472496,,1,tour
+tour_89_93,Tienda 80,Tienda,24.887346,-107.472496,Tienda 84,Tienda,24.863444,-107.38896,,1,tour
+tour_93_89,Tienda 84,Tienda,24.863444,-107.38896,Tienda 80,Tienda,24.887346,-107.472496,,1,tour
+tour_12_93,Tienda 3,Tienda,24.791214,-107.342965,Tienda 84,Tienda,24.863444,-107.38896,,1,tour
+tour_93_12,Tienda 84,Tienda,24.863444,-107.38896,Tienda 3,Tienda,24.791214,-107.342965,,1,tour
+tour_12_59,Tienda 3,Tienda,24.791214,-107.342965,Tienda 50,Tienda,24.878512,-107.392132,,1,tour
+tour_59_12,Tienda 50,Tienda,24.878512,-107.392132,Tienda 3,Tienda,24.791214,-107.342965,,1,tour
+tour_18_59,Tienda 9,Tienda,24.760923,-107.480466,Tienda 50,Tienda,24.878512,-107.392132,,1,tour
+tour_59_18,Tienda 50,Tienda,24.878512,-107.392132,Tienda 9,Tienda,24.760923,-107.480466,,1,tour
+tour_18_82,Tienda 9,Tienda,24.760923,-107.480466,Tienda 73,Tienda,24.718058,-107.33294,,1,tour
+tour_82_18,Tienda 73,Tienda,24.718058,-107.33294,Tienda 9,Tienda,24.760923,-107.480466,,1,tour
+tour_0_82,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,Tienda 73,Tienda,24.718058,-107.33294,,1,tour
+tour_82_0,Tienda 73,Tienda,24.718058,-107.33294,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,,1,tour
+tour_0_21,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,Tienda 12,Tienda,24.706878,-107.318136,,1,tour
+tour_21_0,Tienda 12,Tienda,24.706878,-107.318136,Centro de Distribución 1,Centro de Distribución,24.774908,-107.309857,,1,tour
+tour_21_26,Tienda 12,Tienda,24.706878,-107.318136,Tienda 17,Tienda,24.8879,-107.321035,,1,tour
+tour_26_21,Tienda 17,Tienda,24.8879,-107.321035,Tienda 12,Tienda,24.706878,-107.318136,,1,tour
+tour_26_30,Tienda 17,Tienda,24.8879,-107.321035,Tienda 21,Tienda,24.777735,-107.44573,,1,tour
+tour_30_26,Tienda 21,Tienda,24.777735,-107.44573,Tienda 17,Tienda,24.8879,-107.321035,,1,tour
+tour_30_46,Tienda 21,Tienda,24.777735,-107.44573,Tienda 37,Tienda,24.852157,-107.387745,,1,tour
+tour_46_30,Tienda 37,Tienda,24.852157,-107.387745,Tienda 21,Tienda,24.777735,-107.44573,,1,tour
+tour_28_46,Tienda 19,Tienda,24.717699,-107.460803,Tienda 37,Tienda,24.852157,-107.387745,,1,tour
+tour_46_28,Tienda 37,Tienda,24.852157,-107.387745,Tienda 19,Tienda,24.717699,-107.460803,,1,tour
+tour_28_47,Tienda 19,Tienda,24.717699,-107.460803,Tienda 38,Tienda,24.854193,-107.401241,,1,tour
+tour_47_28,Tienda 38,Tienda,24.854193,-107.401241,Tienda 19,Tienda,24.717699,-107.460803,,1,tour
+tour_47_85,Tienda 38,Tienda,24.854193,-107.401241,Tienda 76,Tienda,24.835513,-107.496682,,1,tour
+tour_85_47,Tienda 76,Tienda,24.835513,-107.496682,Tienda 38,Tienda,24.854193,-107.401241,,1,tour
+tour_52_85,Tienda 43,Tienda,24.881513,-107.450142,Tienda 76,Tienda,24.835513,-107.496682,,1,tour
+tour_85_52,Tienda 76,Tienda,24.835513,-107.496682,Tienda 43,Tienda,24.881513,-107.450142,,1,tour
+tour_41_52,Tienda 32,Tienda,24.76618,-107.487288,Tienda 43,Tienda,24.881513,-107.450142,,1,tour
+tour_52_41,Tienda 43,Tienda,24.881513,-107.450142,Tienda 32,Tienda,24.76618,-107.487288,,1,tour
+tour_41_60,Tienda 32,Tienda,24.76618,-107.487288,Tienda 51,Tienda,24.861488,-107.320782,,1,tour
+tour_60_41,Tienda 51,Tienda,24.861488,-107.320782,Tienda 32,Tienda,24.76618,-107.487288,,1,tour
+tour_51_60,Tienda 42,Tienda,24.762871,-107.398286,Tienda 51,Tienda,24.861488,-107.320782,,1,tour
+tour_60_51,Tienda 51,Tienda,24.861488,-107.320782,Tienda 42,Tienda,24.762871,-107.398286,,1,tour
+tour_8_51,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,Tienda 42,Tienda,24.762871,-107.398286,,1,tour
+tour_51_8,Tienda 42,Tienda,24.762871,-107.398286,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,,1,tour
+tour_4_8,Centro de Distribución 5,Centro de Distribución,24.820223,-107.358385,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,,1,tour
+tour_8_4,Centro de Distribución 9,Centro de Distribución,24.760848,-107.395049,Centro de Distribución 5,Centro de Distribución,24.820223,-107.358385,,1,tour
+tour_4_86,Centro de Distribución 5,Centro de Distribución,24.820223,-107.358385,Tienda 77,Tienda,24.802419,-107.454701,,1,tour
+tour_86_4,Tienda 77,Tienda,24.802419,-107.454701,Centro de Distribución 5,Centro de Distribución,24.820223,-107.358385,,1,tour
+tour_56_86,Tienda 47,Tienda,24.88594,-107.338376,Tienda 77,Tienda,24.802419,-107.454701,,1,tour
+tour_86_56,Tienda 77,Tienda,24.802419,-107.454701,Tienda 47,Tienda,24.88594,-107.338376,,1,tour
+tour_56_64,Tienda 47,Tienda,24.88594,-107.338376,Tienda 55,Tienda,24.70139,-107.397851,,1,tour
+tour_64_56,Tienda 55,Tienda,24.70139,-107.397851,Tienda 47,Tienda,24.88594,-107.338376,,1,tour
+tour_64_97,Tienda 55,Tienda,24.70139,-107.397851,Tienda 88,Tienda,24.767806,-107.430158,,1,tour
+tour_97_64,Tienda 88,Tienda,24.767806,-107.430158,Tienda 55,Tienda,24.70139,-107.397851,,1,tour
+tour_75_97,Tienda 66,Tienda,24.881653,-107.452088,Tienda 88,Tienda,24.767806,-107.430158,,1,tour
+tour_97_75,Tienda 88,Tienda,24.767806,-107.430158,Tienda 66,Tienda,24.881653,-107.452088,,1,tour
+tour_32_75,Tienda 23,Tienda,24.756187,-107.391461,Tienda 66,Tienda,24.881653,-107.452088,,1,tour
+tour_75_32,Tienda 66,Tienda,24.881653,-107.452088,Tienda 23,Tienda,24.756187,-107.391461,,1,tour
+tour_32_67,Tienda 23,Tienda,24.756187,-107.391461,Tienda 58,Tienda,24.888582,-107.435359,,1,tour
+tour_67_32,Tienda 58,Tienda,24.888582,-107.435359,Tienda 23,Tienda,24.756187,-107.391461,,1,tour
+tour_40_67,Tienda 31,Tienda,24.872621,-107.37534,Tienda 58,Tienda,24.888582,-107.435359,,1,tour
+tour_67_40,Tienda 58,Tienda,24.888582,-107.435359,Tienda 31,Tienda,24.872621,-107.37534,,1,tour
+tour_40_73,Tienda 31,Tienda,24.872621,-107.37534,Tienda 64,Tienda,24.821913,-107.399464,,1,tour
+tour_73_40,Tienda 64,Tienda,24.821913,-107.399464,Tienda 31,Tienda,24.872621,-107.37534,,1,tour
+tour_24_73,Tienda 15,Tienda,24.809342,-107.463029,Tienda 64,Tienda,24.821913,-107.399464,,1,tour
+tour_73_24,Tienda 64,Tienda,24.821913,-107.399464,Tienda 15,Tienda,24.809342,-107.463029,,1,tour
+tour_23_24,Tienda 14,Tienda,24.762342,-107.395986,Tienda 15,Tienda,24.809342,-107.463029,,1,tour
+tour_24_23,Tienda 15,Tienda,24.809342,-107.463029,Tienda 14,Tienda,24.762342,-107.395986,,1,tour
+tour_11_23,Tienda 2,Tienda,24.758429,-107.426728,Tienda 14,Tienda,24.762342,-107.395986,,1,tour
+tour_23_11,Tienda 14,Tienda,24.762342,-107.395986,Tienda 2,Tienda,24.758429,-107.426728,,1,tour
+tour_10_11,Tienda 1,Tienda,24.822371,-107.472101,Tienda 2,Tienda,24.758429,-107.426728,,1,tour
+tour_11_10,Tienda 2,Tienda,24.758429,-107.426728,Tienda 1,Tienda,24.822371,-107.472101,,1,tour
+tour_10_13,Tienda 1,Tienda,24.822371,-107.472101,Tienda 4,Tienda,24.739935,-107.397153,,1,tour
+tour_13_10,Tienda 4,Tienda,24.739935,-107.397153,Tienda 1,Tienda,24.822371,-107.472101,,1,tour
+tour_13_65,Tienda 4,Tienda,24.739935,-107.397153,Tienda 56,Tienda,24.783482,-107.455578,,1,tour
+tour_65_13,Tienda 56,Tienda,24.783482,-107.455578,Tienda 4,Tienda,24.739935,-107.397153,,1,tour
+tour_65_77,Tienda 56,Tienda,24.783482,-107.455578,Tienda 68,Tienda,24.89713,-107.451589,,1,tour
+tour_77_65,Tienda 68,Tienda,24.89713,-107.451589,Tienda 56,Tienda,24.783482,-107.455578,,1,tour
+tour_31_77,Tienda 22,Tienda,24.865748,-107.428649,Tienda 68,Tienda,24.89713,-107.451589,,1,tour
+tour_77_31,Tienda 68,Tienda,24.89713,-107.451589,Tienda 22,Tienda,24.865748,-107.428649,,1,tour
+tour_9_31,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,Tienda 22,Tienda,24.865748,-107.428649,,1,tour
+tour_31_9,Tienda 22,Tienda,24.865748,-107.428649,Centro de Distribución 10,Centro de Distribución,24.786389,-107.441754,,1,tour
