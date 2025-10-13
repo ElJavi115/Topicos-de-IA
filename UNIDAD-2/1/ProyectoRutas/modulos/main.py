@@ -13,12 +13,12 @@ ALPHA = 0.995
 L_ITERS = 50
 T_MIN  = 0.1
 
-CARPETA_ENTRADA = "./Topicos-de-IA/UNIDAD 2/1/ProyectoRutas/datos"
+CARPETA_ENTRADA = "./UNIDAD-2/1/ProyectoRutas/datos"
 ARCHIVO_NODOS = "datos_distribucion_tiendas.xlsx"
 ARCHIVO_DIST = "matriz_distancias.xlsx"
 ARCHIVO_COSTO = "matriz_costos_combustible.xlsx"
 ARCHIVO_RUTAS = "rutas3.csv"
-CARPETA_SALIDA = Path("./Topicos-de-IA/UNIDAD 2/1/ProyectoRutas/resultados")
+CARPETA_SALIDA = Path("./UNIDAD-2/1/ProyectoRutas/resultados")
 
 def main():
     CARPETA_SALIDA.mkdir(parents=True, exist_ok=True)
@@ -83,7 +83,7 @@ def main():
     plt.savefig(CARPETA_SALIDA / "evolucion_costo.png", dpi=100)
     plt.show()
 
-    print("\nRuta óptima::")
+    print("\nRuta óptima:")
     for i, nombre in enumerate(mejor_tour_nombres[:100], start=1):
         print(f"{i:02d}. {nombre}")
     print(f"\nMejor costo total: {mejor_costo:,.3f}")
