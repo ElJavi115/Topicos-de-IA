@@ -26,7 +26,6 @@ from fitness import fitness
     - num_iteraciones : número de ciclos de búsqueda.
     - w : inercia
     - c1, c2 : coeficientes local/global
-    - semilla : semilla aleatoria (None = aleatorio real).
     - vel_escala_ini : escala de velocidad inicial (qué tan rápido se mueven al inicio).
     - jitter : pequeño valor aleatorio para evitar que se queden estancadas.
     - respawn_cada : cada cuántas iteraciones re-inicializar algunas partículas
@@ -42,15 +41,14 @@ import numpy as np
 
 def generar_enjambre(
     objetivo, limites_inf, limites_sup,
-    num_particulas=60, num_iteraciones=200,
-    w=0.8, c1=1.6, c2=1.6,
-    semilla=None,
+    num_particulas=100, num_iteraciones=200,
+    w=0.8, c1=2, c2=2,
     vel_escala_inicial=0.2,
     jitter=0.01,
     respawn_cada=40,
     fraccion_respawn=0.15
 ):
-    rng = np.random.default_rng(semilla) if semilla is not None else np.random.default_rng()
+    rng = np.random.default_rng()
 
     limites_inf = np.asarray(limites_inf, float)
     limites_sup = np.asarray(limites_sup, float)
@@ -138,18 +136,16 @@ def main():
 
     # Función objetivo
     def funcion_objetivo(x):
-        return fitness(x, latitudes, longitudes, utilidades, num_sensores, radio_km,
-                       peso_repulsion, peso_penalizacion, distancia_min_km)
+        return fitness(x, latitudes, longitudes, utilidades, num_sensores, radio_km, peso_repulsion, peso_penalizacion, distancia_min_km)
 
     # Ejecución del PSO
     mejor_pos_global, mejor_valor_global, mejor_trayectoria = generar_enjambre(
         funcion_objetivo, limites_inf, limites_sup,
-        num_particulas=80,
-        num_iteraciones=250,
+        num_particulas=100,
+        num_iteraciones=200,
         w=0.8,
-        c1=1.6,
-        c2=1.6,
-        semilla=None,
+        c1=2.0,
+        c2=2.0,
         vel_escala_inicial=0.25,
         jitter=0.015,
         respawn_cada=50,
@@ -185,7 +181,7 @@ def main():
     print("\nSensores óptimos (latitud, longitud):")
     for i, (lat, lon) in enumerate(zip(lat_s, lon_s), 1):
         print(f"{i:02d} -> {lat:.6f}, {lon:.6f}")
-    print("Valor mínimo del fitness:", mejor_valor_global)
+    print("Valor del fitness:", mejor_valor_global)
 
 if __name__ == "__main__":
     main()

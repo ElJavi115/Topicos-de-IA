@@ -18,7 +18,7 @@ Retorna:
 def zscore(x):
     x = np.asarray(x, dtype=float)
     mu = np.nanmean(x)
-    sd = np.nanstd(x) + 1e-9
+    sd = np.nanstd(x) + 1e-8
     return (x - mu)/sd
 
 
