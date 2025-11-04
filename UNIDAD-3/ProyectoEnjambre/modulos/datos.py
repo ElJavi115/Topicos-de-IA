@@ -1,8 +1,16 @@
-
 import csv
 
-# Carga un CSV con encabezados: Humedad, Cultivo, Elevación, Salinidad, Temperatura, Latitud, Longitud
-# Devuelve listas paralelas: humedad, cultivo, elevacion, salinidad, temperatura, latitudes, longitudes
+
+"""
+Carga un CSV con encabezados: Humedad, Cultivo, Elevación, Salinidad, Temperatura, Latitud, Longitud
+
+Parámetros:
+- ruta_csv : ruta al archivo CSV.
+
+Retorna:
+Listas paralelas: humedad, cultivo, elevacion, salinidad, temperatura, latitudes, longitudes
+"""
+
 def cargar_csv(ruta_csv):
     humedad = []
     cultivo = []

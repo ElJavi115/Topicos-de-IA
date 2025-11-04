@@ -1,8 +1,28 @@
 
 import numpy as np
 from geodesia import haversine_km
+"""
+Calcula el valor de fitness que el algoritmo PSO debe minimizar.
 
-# Devuelve costo a minimizar (-J).
+Evalúa qué tan buena es una configuración de sensores tomando en cuenta las zonas con mayor utilidad, 
+la dispersión de los sensores y la distancia mínima entre ellos.
+
+El valor que devuelve es negativo porque el PSO de PySwarm busca minimizarlo.
+
+Parámetros:
+- x : arreglo con las coordenadas 
+- latitudes, longitudes : listas con las coordenadas del terreno.
+- utilidades : lista de utilidades de cada punto (0 a 1).
+- K : número de sensores.
+- r_km : radio de cobertura en km.
+- alfa : peso de la repulsión.
+- beta : peso de la penalización por cercanía.
+- dmin_km : distancia mínima deseada entre sensores (km).
+
+Retorna:
+- valor numérico negativo del ajuste total (-J). Porque queremos minimizar.
+"""
+
 def fitness(x, latitudes, longitudes, utilidades, K, r_km, alfa, beta, dmin_km):
     lat_s = x[0::2]
     lon_s = x[1::2]
