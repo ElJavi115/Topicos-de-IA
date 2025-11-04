@@ -14,9 +14,7 @@ Parámetros:
 
 -Primero convierte las coordenadas de grados a radianes.
 -Después calcula las diferencias angulares de latitud (dlat) y longitud (dlon).
--Se aplica la fórmula de Haversine:
-       a = sin²(Δlat / 2) + cos(lat1) * cos(lat2) * sin²(Δlon / 2)
-       c = 2 * arcsin(√a)
+-Se aplica la fórmula de Haversine para obtener el ángulo central (c) entre los dos puntos.
 -Finalmente multiplica el ángulo central (c) por el radio de la Tierra para obtener la distancia final.
 
 Retorna:

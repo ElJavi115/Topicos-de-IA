@@ -19,22 +19,22 @@ from fitness import fitness
     de iteraciones para evitar estancamientos.
 
     Parámetros:
-    - objetivo : función f(x) -> float que se desea MINIMIZAR.
-    - limites_inf : arreglo (dim,) con límites inferiores por dimensión.
-    - limites_sup : arreglo (dim,) con límites superiores por dimensión.
+    - objetivo : función que se desea MINIMIZAR.
+    - limites_inf : arreglo con límites inferiores por dimensión.
+    - limites_sup : arreglo con límites superiores por dimensión.
     - num_particulas : tamaño del enjambre.
-    - num_iteraciones : número de iteraciones del ciclo principal.
+    - num_iteraciones : número de ciclos de búsqueda.
     - w : inercia
     - c1, c2 : coeficientes local/global
     - semilla : semilla aleatoria (None = aleatorio real).
-    - vel_escala_ini : escala de velocidad inicial (fracción del rango)
-    - jitter         : ruido gaussiano agregado a v en cada iteración
-    - respawn_cada   : cada cuántas iteraciones re-inicializar algunas partículas
-    - frac_respawn   : fracción de partículas a re-inicializar en respawn
+    - vel_escala_ini : escala de velocidad inicial (qué tan rápido se mueven al inicio).
+    - jitter : pequeño valor aleatorio para evitar que se queden estancadas.
+    - respawn_cada : cada cuántas iteraciones re-inicializar algunas partículas
+    - fraccion_respawn : fporcentaje de partículas que se reubican aleatoriamente.
 
     Retorna:
-    - mejor_global_pos : vector (dim,) con la mejor posición encontrada (gbest).
-    - mejor_global_val : valor de 'objetivo' asociado a gbest.
+    - mejor_pos_global : vector (dim,) con la mejor posición encontrada (gbest).
+    - mejor_valor_global : valor de 'objetivo' asociado a gbest.
     - mejor_trayectoria  : arreglo (num_iteraciones+1, dim) con el gbest por iteración.
     """
 
@@ -43,36 +43,13 @@ import numpy as np
 def generar_enjambre(
     objetivo, limites_inf, limites_sup,
     num_particulas=60, num_iteraciones=200,
-    inercia=0.8, coef_local=1.6, coef_global=1.6,
+    w=0.8, c1=1.6, c2=1.6,
     semilla=None,
     vel_escala_inicial=0.2,
-    ruido_jitter=0.01,
+    jitter=0.01,
     respawn_cada=40,
     fraccion_respawn=0.15
 ):
-    """
-    Implementación del algoritmo de Optimización por Enjambre de Partículas (PSO) con respawn para evitar estancamientos.
-
-    Parámetros:
-    - objetivo : función f(x) -> float que se desea minimizar.
-    - limites_inf : arreglo de límites inferiores por dimensión.
-    - limites_sup : arreglo de límites superiores por dimensión.
-    - num_particulas : cantidad de partículas del enjambre.
-    - num_iteraciones : número total de iteraciones.
-    - w : inercia.
-    - coef_local : atracción hacia el mejor personal (c1).
-    - coef_global : atracción hacia el mejor global (c2).
-    - semilla : semilla del generador aleatorio (None = aleatorio real).
-    - vel_escala_inicial : escala de velocidad inicial (proporción del rango).
-    - ruido_jitter : ruido aleatorio añadido a la velocidad.
-    - respawn_cada : cada cuántas iteraciones re-inicializar algunas partículas.
-    - fraccion_respawn : proporción de partículas a re-inicializar.
-
-    Retorna:
-    - mejor_pos_global : mejor posición encontrada (gbest).
-    - mejor_valor_global : valor de la función en esa posición.
-    - trayectorias_mejor : historial del mejor global en cada iteración.
-    """
     rng = np.random.default_rng(semilla) if semilla is not None else np.random.default_rng()
 
     limites_inf = np.asarray(limites_inf, float)
@@ -92,17 +69,17 @@ def generar_enjambre(
     mejor_pos_global = posiciones[idx_mejor].copy()
     mejor_valor_global = float(puntajes[idx_mejor])
 
-    trayectorias_mejor = [mejor_pos_global.copy()]
+    mejor_trayectoria = [mejor_pos_global.copy()]
 
     for iteracion in range(1, num_iteraciones + 1):
         r1 = rng.random((num_particulas, dimension))
         r2 = rng.random((num_particulas, dimension))
-        ruido = rng.normal(0.0, ruido_jitter, size=(num_particulas, dimension)) * rango
+        ruido = rng.normal(0.0, jitter, size=(num_particulas, dimension)) * rango
 
         velocidades = (
-            inercia * velocidades
-            + coef_local * r1 * (mejores_locales_pos - posiciones)
-            + coef_global * r2 * (mejor_pos_global - posiciones)
+            w * velocidades
+            + c1 * r1 * (mejores_locales_pos - posiciones)
+            + c2 * r2 * (mejor_pos_global - posiciones)
             + ruido
         )
 
@@ -127,9 +104,9 @@ def generar_enjambre(
             mejor_pos_global = posiciones[idx_mejor].copy()
             mejor_valor_global = float(puntajes[idx_mejor])
 
-        trayectorias_mejor.append(mejor_pos_global.copy())
+        mejor_trayectoria.append(mejor_pos_global.copy())
 
-    return mejor_pos_global, mejor_valor_global, np.array(trayectorias_mejor)
+    return mejor_pos_global, mejor_valor_global, np.array(mejor_trayectoria)
 
 
 def main():
@@ -165,16 +142,16 @@ def main():
                        peso_repulsion, peso_penalizacion, distancia_min_km)
 
     # Ejecución del PSO
-    mejor_pos_global, mejor_valor_global, trayectorias_mejor = generar_enjambre(
+    mejor_pos_global, mejor_valor_global, mejor_trayectoria = generar_enjambre(
         funcion_objetivo, limites_inf, limites_sup,
         num_particulas=80,
         num_iteraciones=250,
-        inercia=0.8,
-        coef_local=1.6,
-        coef_global=1.6,
+        w=0.8,
+        c1=1.6,
+        c2=1.6,
         semilla=None,
         vel_escala_inicial=0.25,
-        ruido_jitter=0.015,
+        jitter=0.015,
         respawn_cada=50,
         fraccion_respawn=0.2
     )
@@ -183,8 +160,8 @@ def main():
     lat_hist = []
     lon_hist = []
     for i in range(num_sensores):
-        lat_i = trayectorias_mejor[:, 2*i]
-        lon_i = trayectorias_mejor[:, 2*i + 1]
+        lat_i = mejor_trayectoria[:, 2*i]
+        lon_i = mejor_trayectoria[:, 2*i + 1]
         lat_hist.append(lat_i)
         lon_hist.append(lon_i)
 
